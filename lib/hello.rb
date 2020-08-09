@@ -1,5 +1,5 @@
 def hello_t(array)
-  i = 0
+  i = 0 # counter variable
   
   while i < array.length 
     i += 1
